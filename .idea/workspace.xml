@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67bab136-6702-4815-9643-91a5af9db5d2" name="Changes" comment="Remove Aim method from WeaponActions">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="67bab136-6702-4815-9643-91a5af9db5d2" name="Changes" comment="Enum/Inner Enum -&gt; Abstract class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Budget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/TypeWeapon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/Weapon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/WeaponActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/interfaces/WeaponActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/domain/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/domain/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/domain/Pistola.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/domain/Pistol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,7 @@
       <updated>1706234298670</updated>
       <workItem from="1706234299676" duration="1838000" />
       <workItem from="1706287573402" duration="3585000" />
-      <workItem from="1706536996811" duration="14000000" />
+      <workItem from="1706536996811" duration="17459000" />
     </task>
     <task id="LOCAL-00001" summary="Define the Player Entitie">
       <option name="closed" value="true" />
@@ -142,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706629806212</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implement WeaponAction methods to the Weapon Abstract Class">
+      <option name="closed" value="true" />
+      <created>1706629924907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706629924907</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Enum/Inner Enum -&gt; Abstract class">
+      <option name="closed" value="true" />
+      <created>1706629994784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706629994784</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +170,8 @@
     <MESSAGE value="Create Gun Classes ans set basic atributes" />
     <MESSAGE value="Create an Abstract Gun class" />
     <MESSAGE value="Remove Aim method from WeaponActions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Aim method from WeaponActions" />
+    <MESSAGE value="Implement WeaponAction methods to the Weapon Abstract Class" />
+    <MESSAGE value="Enum/Inner Enum -&gt; Abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enum/Inner Enum -&gt; Abstract class" />
   </component>
 </project>
