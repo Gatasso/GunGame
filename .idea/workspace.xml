@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67bab136-6702-4815-9643-91a5af9db5d2" name="Changes" comment="Enum/Inner Enum -&gt; Abstract class">
+    <list default="true" id="67bab136-6702-4815-9643-91a5af9db5d2" name="Changes" comment="New Knife Class">
+      <change afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Weapon/domain/Knife.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Budget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/java/dev/galasso/matheus/core/entities/Player/Player.java" afterDir="false" />
@@ -72,7 +73,7 @@
       <updated>1706234298670</updated>
       <workItem from="1706234299676" duration="1838000" />
       <workItem from="1706287573402" duration="3585000" />
-      <workItem from="1706536996811" duration="17459000" />
+      <workItem from="1706536996811" duration="18284000" />
     </task>
     <task id="LOCAL-00001" summary="Define the Player Entitie">
       <option name="closed" value="true" />
@@ -154,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706629994784</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New Knife Class">
+      <option name="closed" value="true" />
+      <created>1706639469738</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706639469738</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +181,7 @@
     <MESSAGE value="Remove Aim method from WeaponActions" />
     <MESSAGE value="Implement WeaponAction methods to the Weapon Abstract Class" />
     <MESSAGE value="Enum/Inner Enum -&gt; Abstract class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enum/Inner Enum -&gt; Abstract class" />
+    <MESSAGE value="New Knife Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Knife Class" />
   </component>
 </project>
